@@ -1,0 +1,3 @@
+#Set Time zone to EST
+@echo "Set Time to EST"
+tzutil /s "Pacific Standard Time"
